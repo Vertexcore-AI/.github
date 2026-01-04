@@ -39,7 +39,7 @@ With a mission to bridge business needs and smart technology, we deliver real-wo
 
 We’d love to hear about your next project. Let’s build something amazing together!
 
-**📧 Email**: [vertexcoreai@gmail.com](mailto:vertexcoreai@gmail.com)  
+**📧 Email**: [support@vertexcoreai.com](mailto:support@vertexcoreai.com)  
 **📞 Phone**: +94 70 314 3692 | +94 77 497 0885 | +94 77 803 6074  
 **📍 Address**: 7/16 Uplands Road, Kandy  
 **🌐 Website**: [vertexcoreai](https://vertexcoreai.com/) *(or GitHub Pages domain)*
